@@ -10,7 +10,7 @@ export default defineAppConfig({
     // Use external auth methods, e.g. CFX, Steam (Set to false for minecraft stores)
     authExternal: true,
     // The unique ID of the store
-    storeId: 45295,
+    storeId: 1572393,
     // A link to your main site (optional)
     mainSiteUrl: "https://w3eklymc.xyz",
     // A discord invite url (optional)
