@@ -19,11 +19,11 @@ export default defineI18nConfig(() => ({
     },
     messages: {
         "en-US": {
-            store_name: "Example Store",
-            play: "example.play.com",
+            store_name: "W3eklyMC Store",
+            play: "w3eklymc.net",
             index: {
                 hero: {
-                    title: "Hero Banner",
+                    title: "W3eklyMC Store",
                     subtitle: "CHECK OUT THE LATEST OFFERS",
                 },
             },
@@ -66,7 +66,7 @@ export default defineI18nConfig(() => ({
             },
             footer: {
                 join_our_discord: "Join our Discord",
-                copyright: "© 2024 {storeName}. All rights reserved.",
+                copyright: "© 202 {storeName}. All rights reserved.",
                 tebex: {
                     description:
                         "This website and its checkout process is operated by our online reseller & Merchant of Record, Tebex Limited, who also handles order-related inquiries and refunds.",
